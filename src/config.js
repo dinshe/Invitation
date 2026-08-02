@@ -36,10 +36,10 @@ export const config = {
   // ----- RSVP Google Apps Script URL -----
   // STEP 1: Deploy your Google Apps Script (see README for instructions)
   // STEP 2: Paste the Web App URL here
-  RSVP_API_URL: "YOUR_GOOGLE_APPS_SCRIPT_URL_HERE",
+  RSVP_API_URL: "https://script.google.com/macros/s/AKfycbx6QP3dIFximD0POQZMr9pigFMenriaS0b2AUv0oDhzrD5z8kGBTPay7S5Bwg-y0u4Pkg/exec",
 
   // ----- Guestbook API (same or separate Apps Script) -----
-  GUESTBOOK_API_URL: "YOUR_GOOGLE_APPS_SCRIPT_URL_HERE",
+  GUESTBOOK_API_URL: "https://script.google.com/macros/s/AKfycbx6QP3dIFximD0POQZMr9pigFMenriaS0b2AUv0oDhzrD5z8kGBTPay7S5Bwg-y0u4Pkg/exec",
 
   // ----- Background Music -----
   // Place your audio file in public/music/
